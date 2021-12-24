@@ -22,7 +22,7 @@
   "devDependencies": {},
   "scripts": {
     "start": "node server.js",
-    "dev": "set NODE_ENV=production && nodemon server.js"
+    "dev": "nodemon server.js"
   },
   "author": "Tarun",
   "license": "ISC"
